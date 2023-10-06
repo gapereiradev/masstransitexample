@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "IhfYcAL/sii1oiyrEVdrjnnlvHmK119wSe1/4g8FuX93A0BwPbD7h6TGGBq3EgvbIAqlc4p1wlRPCX9+coJo+A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gasou\\source\\repos\\MassTransit.exemplo\\Application\\Application\\Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gasou\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\gasou\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
